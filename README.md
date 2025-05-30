@@ -1,4 +1,7 @@
-## A Scuzzy Developer
+## Software Engineer | Systems Programming | Game Development
+
+Passionate software engineer with expertise in C++, Python, and full-stack development. I specialize in building high-performance applications, custom game engines, and embedded systems. Currently pursuing my Computer Science degree while developing real-world solutions that solve practical problems.
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white).
@@ -27,7 +30,7 @@
 ### Projects
 
 #### [Top Down RPG](https://github.com/0xKitKoi/ScuzzyGame)
-Video Game with No game engine. SDL2 is the only dependancy
+Video Game with No game engine. SDL2 is the only dependency
 - Live-coded development sessions on Twitch, demonstrating technical problem-solving in 
 real-time 
 - `C++` `Simple Direct Media Layer 2` `Cross-platform` `OOP`
