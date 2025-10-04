@@ -1,6 +1,6 @@
 ## Software Engineer | Systems Programming | Game Development
 
-Passionate software engineer with expertise in C++, Python, and full-stack development. I specialize in building high-performance applications, custom game engines, and embedded systems. Currently pursuing my Computer Science degree while developing real-world solutions that solve practical problems.
+Passionate software engineer, experience in C/C++, Python, and full-stack development. Specializing is for noobs, I can do anything and everything. Currently pursuing my Computer Science degree while solving real-world problems.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
