@@ -29,15 +29,15 @@ Passionate software engineer, experience in C/C++, Python, and full-stack develo
 
 ### Projects
 
-#### [Top Down RPG](https://github.com/0xKitKoi/ScuzzyGame)
-Video Game with No game engine. SDL2 is the only dependency
+#### [Top Down RPG video game](https://github.com/0xKitKoi/ScuzzyGame)
+Video Game from scratch (with No game engine). SDL2 is the only dependency
 - Live-coded development sessions on Twitch, demonstrating technical problem-solving in 
 real-time 
 - `C++` `Simple Direct Media Layer 2` `Cross-platform` `OOP`
 ---
-#### [MicroController Robotics Software](https://github.com/0xKitKoi/Serial-Comunication-Walnut)
-ImGUI Application to communicate with microcontrollers. Built as a controller for a Laser Turret.
-- Communicates over COM Ports or WiFi
+#### [Custom Serial Monitor and Laser Turret Controller](https://github.com/0xKitKoi/Serial-Comunication-Walnut)
+ImGUI Application to communicate with microcontrollers via Serial Com Ports. Built as a controller for a Laser Turret.
+- Communicates over COM Ports or WiFi sockets
 - Sends raw text or mouse coordinates to aim a laser
 - Multi-language for ease of use, rapid prototyping
 - RaspBerry Pi Pico W firmware included
@@ -45,9 +45,8 @@ ImGUI Application to communicate with microcontrollers. Built as a controller fo
 ---
 #### [Full Stack Web Development](https://github.com/0xKitKoi/StudentSignup)
 React MakerSpace Signup Portal
-- Architected and deployed a full-stack signup system for a college MakerSpace club 
-- Custom PHP API for secure database interactions and dynamic content 
-management 
+- Architected and deployed a full-stack signup system for my MakerSpace club at Chaffey College
+- Simple PHP API, custom python script to email students of club events 
 - Database queries are as small as possible. A custom python tool displays the data for user management
 - `React.js` `PHP` `SQLite3` `OOP`
 ---
