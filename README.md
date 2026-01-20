@@ -35,7 +35,10 @@ Passionate dev making things for fun, I dont specialize, you can't when you are 
 #### [Top Down RPG video game](https://github.com/0xKitKoi/ScuzzyGame)
 Video Game from scratch (with No game engine). SDL2 is the only dependency
 - Live-coded development sessions on Twitch, demonstrating technical problem-solving in 
-real-time 
+real-time
+- Designed and implemented a polymorphic entity system in C++ enabling extensible enemy and item behavior through inheritance and virtual function overrides.
+- Reduced code duplication by centralizing common enemy logic in base classes while allowing per-enemy specialization. 
+
 - `C++` `Simple Direct Media Layer 2` `Cross-platform` `OOP`
 ---
 #### [Custom Serial Monitor and Laser Turret Controller](https://github.com/0xKitKoi/Serial-Comunication-Walnut)
